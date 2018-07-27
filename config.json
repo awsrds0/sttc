@@ -321,7 +321,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"",
+        "title":"App Settings",
         "provider":"custom",
         "arguments":[
           "com.sherdle.universal.SettingsFragment", "fragment"
