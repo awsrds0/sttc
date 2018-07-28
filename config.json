@@ -44,6 +44,51 @@
       }
     ]
   },
+    {
+    "title":"ABS-CBN",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"ABS-CBN",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/abs-cbn-recorded-shows.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"GMA Shows",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"GMA Shows",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/gma-recorded-shows.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Latest Recorded Shows",
+    "drawable":"",
+    "submenu":"Recorded TV Shows",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Latest Recorded Shows",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/latest-pinoy-recorded-shows.html"
+        ]
+      }
+    ]
+  },
   {
     "title":"TFC Pinoy",
     "drawable":"",
@@ -150,81 +195,6 @@
     ]
   },
   {
-    "title":"ABS-CBN",
-    "drawable":"",
-    "submenu":"Recorded TV Shows",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"ABS-CBN",
-        "provider":"webview",
-        "arguments":[
-          "http://blogworldcup18.blogspot.com/p/abs-cbn-recorded-shows.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"GMA Shows",
-    "drawable":"",
-    "submenu":"Recorded TV Shows",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"GMA Shows",
-        "provider":"webview",
-        "arguments":[
-          "http://blogworldcup18.blogspot.com/p/gma-recorded-shows.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Latest Recorded Shows",
-    "drawable":"",
-    "submenu":"Recorded TV Shows",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Latest Recorded Shows",
-        "provider":"webview",
-        "arguments":[
-          "http://blogworldcup18.blogspot.com/p/latest-pinoy-recorded-shows.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Tagalog Movies",
-    "drawable":"",
-    "submenu":"Movies",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Tagalog Movies",
-        "provider":"webview",
-        "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tagalog-movies.html"
-        ]
-      }
-    ]
-  },
-  {
-    "title":"Tagalog Dubbed Movies",
-    "drawable":"",
-    "submenu":"Movies",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"Tagalog Dubbed Movies",
-        "provider":"webview",
-        "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tagalog-dubbed-movies.html"
-        ]
-      }
-    ]
-  },
-  {
     "title":"HBO USA HD",
     "drawable":"",
     "submenu":"English Live TV",
@@ -283,6 +253,36 @@
         ]
       }
     ]
+  },  
+  {
+    "title":"Tagalog Movies",
+    "drawable":"",
+    "submenu":"Movies",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Tagalog Movies",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/tagalog-movies.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Tagalog Dubbed Movies",
+    "drawable":"",
+    "submenu":"Movies",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Tagalog Dubbed Movies",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/tagalog-dubbed-movies.html"
+        ]
+      }
+    ]
   },
   {
     "title":"Contact Us",
@@ -321,7 +321,7 @@
     "iap":false,
     "tabs":[
       {
-        "title":"App Settings",
+        "title":"",
         "provider":"custom",
         "arguments":[
           "com.sherdle.universal.SettingsFragment", "fragment"
