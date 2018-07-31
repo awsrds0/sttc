@@ -9,7 +9,7 @@
         "title":"Live Channels List",
         "provider":"overview",
         "arguments":[
-          "https://drive.google.com/uc?export=download&id=1Nv3YxQidwsd0jrxfgf75hFt8wJaaP0Bm"
+          "https://raw.githubusercontent.com/awsrds0/files/master/wrldsprts/overview.json"
         ]
       }
     ]
