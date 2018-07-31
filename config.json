@@ -99,7 +99,7 @@
         "title":"TFC Pinoy",
         "provider":"webview",
         "arguments":[
-          "https://hls.ustreamix.com/TFC-Pinoy.m3u8?token=tfc-pinoy_i-7350c4254be8d061a2afe15532c61017"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -114,7 +114,7 @@
         "title":"GMA Pinoy TV",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/gma-pinoy-tv.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -129,7 +129,7 @@
         "title":"TV5 Pinoy",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tv5-pinoy.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -189,7 +189,7 @@
         "title":"Love Radio",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tfc-pinoy.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -202,9 +202,9 @@
     "tabs":[
       {
         "title":"HBO USA HD",
-        "provider":"stream",
+        "provider":"webview",
         "arguments":[
-          "https://hls.ustreamix.com/HBO-USA-HD.m3u8?token=hbo-usa_i-337bf01f605d71244ec03f68c2c0f04e"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -219,7 +219,7 @@
         "title":"USA Network",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/usa-network.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -234,7 +234,7 @@
         "title":"CBS USA",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/cbs-usa.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -249,7 +249,7 @@
         "title":"Cartoon Network",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/cartoon-network.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -264,7 +264,7 @@
         "title":"Tagalog Movies",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tagalog-movies.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
@@ -279,7 +279,7 @@
         "title":"Tagalog Dubbed Movies",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/tagalog-dubbed-movies.html"
+          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
         ]
       }
     ]
