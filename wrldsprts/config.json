@@ -24,7 +24,7 @@
       "title":"World Sports News",
       "provider":"webview",
       "arguments":[
-        "http://www.google.com"
+        "https://www.bbc.com/sport"
       ]
     }
   ]
