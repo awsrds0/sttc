@@ -202,9 +202,9 @@
     "tabs":[
       {
         "title":"HBO USA HD",
-        "provider":"stream",
+        "provider":"webview",
         "arguments":[
-          "https://hls.ustreamix.com/HBO-USA-HD.m3u8?token=hbo-usa_i-337bf01f605d71244ec03f68c2c0f04e"
+          "http://blogworldcup18.blogspot.com/p/hbo-usa-hd.html"
         ]
       }
     ]
