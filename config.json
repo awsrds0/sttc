@@ -97,7 +97,7 @@
     "tabs":[
       {
         "title":"TFC Pinoy",
-        "provider":"stream",
+        "provider":"webview",
         "arguments":[
           "https://hls.ustreamix.com/TFC-Pinoy.m3u8?token=tfc-pinoy_i-7350c4254be8d061a2afe15532c61017"
         ]
