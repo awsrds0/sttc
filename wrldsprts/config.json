@@ -1,0 +1,77 @@
+[
+  {
+    "title":"Live Channels List",
+    "drawable":"",
+    "submenu":"Live Sports TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Live Channels List",
+        "provider":"overview",
+        "arguments":[
+          "https://drive.google.com/uc?export=download&id=1Nv3YxQidwsd0jrxfgf75hFt8wJaaP0Bm"
+        ]
+      }
+    ]
+  },
+  {
+  "title":"World Sports News",
+  "drawable":"",
+  "submenu":"Live Sports TV",
+  "iap":false,
+  "tabs":[
+    {
+      "title":"World Sports News",
+      "provider":"webview",
+      "arguments":[
+        "http://www.google.com"
+      ]
+    }
+  ]
+},
+  {
+    "title":"Forum",
+    "drawable":"",
+    "submenu":"Live Sports TV",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Forum",
+        "provider":"webview",
+        "arguments":[
+          "http://livetv.boards.net"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"Contact Us",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"Contact Us",
+        "provider":"webview",
+        "arguments":[
+          "http://blogworldcup18.blogspot.com/p/contact-us.html"
+        ]
+      }
+    ]
+  },
+  {
+    "title":"App Settings",
+    "drawable":"",
+    "submenu":"About Us",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.sherdle.universal.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
