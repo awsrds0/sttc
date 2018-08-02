@@ -264,7 +264,7 @@
         "title":"Tagalog Movies",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
+          "http://blogworldcup18.blogspot.com/p/tagalog-movies.html"
         ]
       }
     ]
@@ -279,7 +279,7 @@
         "title":"Tagalog Dubbed Movies",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/2018/07/pinoy-channels-live-tv-guide.html"
+          "http://blogworldcup18.blogspot.com/p/tagalog-dubbed-movies.html"
         ]
       }
     ]
