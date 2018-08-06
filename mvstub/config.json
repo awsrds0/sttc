@@ -9,7 +9,7 @@
         "title":"Movies Link 1",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/english-movies-1.html"
+          "http://blogworldcup18.blogspot.com/p/english-movies-2.html"
         ]
       }
     ]
@@ -24,7 +24,7 @@
         "title":"Movies Link 2",
         "provider":"webview",
         "arguments":[
-          "http://blogworldcup18.blogspot.com/p/english-movies-2.html"
+          "http://blogworldcup18.blogspot.com/p/english-movies-1.html"
         ]
       }
     ]
